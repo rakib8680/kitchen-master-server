@@ -1,0 +1,178 @@
+{
+    "chefs": [
+        {
+            "name": "Sanjeev Kapoor",
+            "picture": "https://cdn.example.com/chefs/sanjeev-kapoor.jpg",
+            "experience": 35,
+            "recipes": 80,
+            "likes": 10000,
+            "main_recipes": {
+                "name": "Chicken Tikka Masala",
+                "image": "https://cdn.example.com/recipes/chicken-tikka-masala.jpg",
+                "ingredients": [
+                    "500g boneless chicken",
+                    "yogurt",
+                    "ginger paste",
+                    "garlic paste",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric powder",
+                    "red chili powder",
+                    "garam masala powder",
+                    "salt",
+                    "oil",
+                    "onion",
+                    "tomato puree",
+                    "heavy cream",
+                    "dried fenugreek leaves"
+                ],
+                "cooking_method": "1. Marinate chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. \n2. Heat oil in a pan and saute chopped onions until translucent. \n3. Add tomato puree and cook for a few minutes. \n4. Add marinated chicken and cook until browned. \n5. Add heavy cream and dried fenugreek leaves. \n6. Simmer for 10-15 minutes until the chicken is cooked through."
+            }
+        },
+        {
+            "name": "Tarla Dalal",
+            "picture": "https://cdn.example.com/chefs/tarla-dalal.jpg",
+            "experience": 50,
+            "recipes": 60,
+            "likes": 8000,
+            "main_recipes": {
+                "name": "Chana Masala",
+                "cuisine": "Indian",
+                "image": "https://cdn.example.com/recipes/chana-masala.jpg",
+                "likes": 15000,
+                "ingredients": [
+                    "1 cup dried chickpeas",
+                    "onion",
+                    "tomatoes",
+                    "ginger",
+                    "garlic",
+                    "green chili",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric powder",
+                    "red chili powder",
+                    "garam masala powder",
+                    "salt",
+                    "oil"
+                ],
+                "cooking_method": "1. Soak chickpeas overnight and boil until tender. \n2. Heat oil in a pan and saute chopped onions until golden brown. \n3. Add chopped tomatoes, ginger, garlic, and green chili. Cook until tomatoes are soft. \n4. Add cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. Cook for a few minutes. \n5. Add boiled chickpeas and simmer for 10-15 minutes until the curry thickens."
+            }
+        },
+        {
+            "name": "Vikas Khanna",
+            "picture": "https://cdn.example.com/chefs/vikas-khanna.jpg",
+            "experience": 25,
+            "recipes": 39,
+            "likes": 6000,
+            "main_recipes": {
+                "name": "Paneer Tikka",
+                "cuisine": "Indian",
+                "image": "https://cdn.example.com/recipes/paneer-tikka.jpg",
+                "likes": 12000,
+                "ingredients": [
+                    "250g paneer",
+                    "capsicum",
+                    "onion",
+                    "yogurt",
+                    "ginger paste",
+                    "garlic paste",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric powder",
+                    "red chili powder",
+                    "garam masala powder",
+                    "salt",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut paneer, capsicum, and onions into cubes. \n2. Marinate paneer and vegetables with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. \n3. Skewer the paneer and vegetables and grill until charred"
+            }
+        },
+        {
+            "name": "Ranveer Brar",
+            "picture": "https://cdn.example.com/chefs/ranveer-brar.jpg",
+            "experience": 20,
+            "recipes": 25,
+            "likes": 7000,
+            "main_recipes": {
+                "name": "Chicken Tikka Masala",
+                "image": "https://cdn.example.com/recipes/chicken-tikka-masala.jpg",
+                "ingredients": [
+                    "500g boneless chicken",
+                    "yogurt",
+                    "ginger paste",
+                    "garlic paste",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric powder",
+                    "red chili powder",
+                    "garam masala powder",
+                    "salt",
+                    "oil",
+                    "onion",
+                    "tomato puree",
+                    "heavy cream",
+                    "dried fenugreek leaves"
+                ],
+                "cooking_method": "1. Marinate chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. \n2. Heat oil in a pan and saute chopped onions until translucent. \n3. Add tomato puree and cook for a few minutes. \n4. Add marinated chicken and cook until browned. \n5. Add heavy cream and dried fenugreek leaves. \n6. Simmer for 10-15 minutes until the chicken is cooked through."
+            }
+        },
+        {
+            "name": "Saransh Goila",
+            "picture": "https://cdn.example.com/chefs/saransh-goila.jpg",
+            "experience": 15,
+            "recipes": 77,
+            "likes": 5000,
+            "main_recipes": {
+                "name": "Chana Masala",
+                "cuisine": "Indian",
+                "image": "https://cdn.example.com/recipes/chana-masala.jpg",
+                "likes": 15000,
+                "ingredients": [
+                    "1 cup dried chickpeas",
+                    "onion",
+                    "tomatoes",
+                    "ginger",
+                    "garlic",
+                    "green chili",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric powder",
+                    "red chili powder",
+                    "garam masala powder",
+                    "salt",
+                    "oil"
+                ],
+                "cooking_method": "1. Soak chickpeas overnight and boil until tender. \n2. Heat oil in a pan and saute chopped onions until golden brown. \n3. Add chopped tomatoes, ginger, garlic, and green chili. Cook until tomatoes are soft. \n4. Add cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. Cook for a few minutes. \n5. Add boiled chickpeas and simmer for 10-15 minutes until the curry thickens."
+            }
+        },
+        {
+            "name": "Shipra Khanna",
+            "picture": "https://cdn.example.com/chefs/shipra-khanna.jpg",
+            "experience": 10,
+            "recipes": 15,
+            "likes": 4000,
+            "main_recipes": {
+                "name": "Paneer Tikka",
+                "cuisine": "Indian",
+                "image": "https://cdn.example.com/recipes/paneer-tikka.jpg",
+                "likes": 12000,
+                "ingredients": [
+                    "250g paneer",
+                    "capsicum",
+                    "onion",
+                    "yogurt",
+                    "ginger paste",
+                    "garlic paste",
+                    "cumin powder",
+                    "coriander powder",
+                    "turmeric powder",
+                    "red chili powder",
+                    "garam masala powder",
+                    "salt",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut paneer, capsicum, and onions into cubes. \n2. Marinate paneer and vegetables with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. \n3. Skewer the paneer and vegetables and grill until charred"
+            }
+        }
+    ]
+}
