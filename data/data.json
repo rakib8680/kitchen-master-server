@@ -62,7 +62,7 @@
     {
         "id": 3,
         "name": "Vikas Khanna",
-        "picture": "https://cdn.example.com/chefs/vikas-khanna.jpg",
+        "picture": "https://ifcaindia.org/wp-content/uploads/2020/02/Chef-Sabyasachi-Gorai-President-YCAI-min.jpg",
         "experience": 25,
         "recipes": 39,
         "likes": 6000,
@@ -92,7 +92,7 @@
     {
         "id": 4,
         "name": "Ranveer Brar",
-        "picture": "https://cdn.example.com/chefs/ranveer-brar.jpg",
+        "picture": "https://static01.nyt.com/images/2020/03/26/dining/25Cardoz1/25Cardoz1-superJumbo.jpg",
         "experience": 20,
         "recipes": 25,
         "likes": 7000,
@@ -122,7 +122,7 @@
     {
         "id": 5,
         "name": "Saransh Goila",
-        "picture": "https://cdn.example.com/chefs/saransh-goila.jpg",
+        "picture": "https://im.rediff.com/getahead/2015/mar/27chef-ranveer-brar-1.jpg",
         "experience": 15,
         "recipes": 77,
         "likes": 5000,
@@ -152,7 +152,7 @@
     {
         "id": 6,
         "name": "Shipra Khanna",
-        "picture": "https://cdn.example.com/chefs/shipra-khanna.jpg",
+        "picture": "https://imagevars.gulfnews.com/2023/04/27/Chef-Sriram-Aylur_187c1b5758b_large.jpg",
         "experience": 10,
         "recipes": 15,
         "likes": 4000,
