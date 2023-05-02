@@ -24,8 +24,6 @@ app.get('/allData', (req, res) => {
 
 
 // send single data 
-
-
 app.get('/allData/:id', (req, res) => {
     const id = req.params.id;
     const singleData = allData?.find(data => data.id === parseInt(id));
