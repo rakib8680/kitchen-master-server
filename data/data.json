@@ -10,14 +10,14 @@
         "main_recipes": [
             {
                 "name": "Chicken Tikka Masala",
-                "image": "https://cdn.example.com/recipes/chicken-tikka-masala.jpg",
+                "image": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
                 "ingredients": "500g boneless chicken, yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil, onion, tomato puree, heavy cream, dried fenugreek leaves",
                 "cooking_method": "1. Marinate chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt.  Heat oil in a pan and saute chopped onions until translucent.  Add tomato puree and cook for a few minutes. Add marinated chicken and cook until browned.  Add heavy cream and dried fenugreek leaves.  Simmer for 10-15 minutes until the chicken is cooked through."
             },
             {
                 "name": "Chicken Biryani",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/chicken-biryani.jpg",
+                "image": "https://10minutesrecipe.com/wp-content/uploads/2022/03/Indian-Chicken-Biryani-Recipe.jpg",
                 "likes": 22000,
                 "ingredients": "500g chicken, cut into pieces,2 cups basmati rice,4 tbsp ghee,2 onions, sliced,1 tbsp ginger paste,1 tbsp garlic paste,2 tomatoes, chopped,1 tsp cumin seeds,1 tsp coriander powder,1/2 tsp turmeric powder,1 tsp red chili powder,1 tsp garam masala powder,1/2 cup yogurt,Salt,4 cups water,A handful of mint leaves, chopped,A handful of coriander leaves, chopped,1 lemon, cut into wedges",
                 "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. 2. Heat ghee in a pan and saute onions until golden brown. 3. Add ginger paste and garlic paste and saute for a minute. 4. Add tomatoes, cumin seeds, coriander powder, turmeric powder, red chili powder, and garam masala powder. Cook until the tomatoes are soft and pulpy. 5. Add chicken pieces and cook until the chicken is browned on all sides. 6. Add yogurt and salt, and mix well. 7. Drain the soaked rice and add it to the chicken mixture. Mix well. 8. Add water and bring the mixture to a boil. 9. Lower the heat, cover the pan, and simmer for 20 minutes, or until the rice is cooked and the water has been absorbed. 10. Garnish with mint leaves, coriander leaves, and lemon wedges. Serve hot."
@@ -25,7 +25,7 @@
             {
                 "name": "Butter Chicken",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/butter-chicken.jpg",
+                "image": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
                 "likes": 15000,
                 "ingredients": "500g boneless chicken, 1 cup yogurt, 1 tbsp ginger paste, 1 tbsp garlic paste, 2 tbsp ghee, 2 onions (finely chopped), 2 tomatoes (pureed), 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala powder, salt, 1/2 cup cream, fresh coriander leaves (chopped)",
                 "cooking_method": "1. Marinate chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. 2. Heat ghee in a pan and saute onions until golden brown. 3. Add tomato puree and cook until the oil separates. 4. Add marinated chicken and cook until done. 5. Stir in cream and cook for a few more minutes.6. Garnish with fresh coriander leaves and serve hot with naan or rice."
@@ -44,7 +44,7 @@
             {
                 "name": "Chana Masala",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/chana-masala.jpg",
+                "image": "https://www.ticklingpalates.com/wp-content/uploads/2022/07/chana-masala-recipe.jpg",
                 "likes": 15000,
                 "ingredients": "1 cup dried chickpeas, onion, tomatoes, ginger, garlic, green chili, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil",
                 "cooking_method": "1. Soak chickpeas overnight and boil until tender.  Heat oil in a pan and saute chopped onions until golden brown.  Add chopped tomatoes, ginger, garlic, and green chili. Cook until tomatoes are soft.  Add cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. Cook for a few minute. Add boiled chickpeas and simmer for 10-15 minutes until the curry thickens."
@@ -52,14 +52,14 @@
             {
                 "name": "Paneer Tikka",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/paneer-tikka.jpg",
+                "image": "https://www.cookwithkushi.com/wp-content/uploads/2023/02/tandoori_paneer_tikka_restaurant_style.jpg",
                 "likes": 12000,
                 "ingredients": "250g paneer, capsicum, onion, yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil",
                 "cooking_method": "1. Cut paneer, capsicum, and onions into cubes.  Marinate paneer and vegetables with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt.  Skewer the paneer and vegetables and grill until charred"
             },
             {
                 "name": "Chicken Tikka Masala",
-                "image": "https://cdn.example.com/recipes/chicken-tikka-masala.jpg",
+                "image": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
                 "ingredients": "500g boneless chicken, yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil, onion, tomato puree, heavy cream, dried fenugreek leaves",
                 "cooking_method": "1. Marinate chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt.  Heat oil in a pan and saute chopped onions until translucent.  Add tomato puree and cook for a few minutes. Add marinated chicken and cook until browned.  Add heavy cream and dried fenugreek leaves.  Simmer for 10-15 minutes until the chicken is cooked through."
             }
@@ -77,7 +77,7 @@
             {
                 "name": "Paneer Tikka",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/paneer-tikka.jpg",
+                "image": "https://www.cookwithkushi.com/wp-content/uploads/2023/02/tandoori_paneer_tikka_restaurant_style.jpg",
                 "likes": 12000,
                 "ingredients": "250g paneer, capsicum, onion, yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil",
                 "cooking_method": "1. Cut paneer, capsicum, and onions into cubes.  Marinate paneer and vegetables with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt.  Skewer the paneer and vegetables and grill until charred"
@@ -85,7 +85,7 @@
             {
                 "name": "Chana Masala",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/chana-masala.jpg",
+                "image": "https://www.ticklingpalates.com/wp-content/uploads/2022/07/chana-masala-recipe.jpg",
                 "likes": 15000,
                 "ingredients": "1 cup dried chickpeas, onion, tomatoes, ginger, garlic, green chili, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil",
                 "cooking_method": "1. Soak chickpeas overnight and boil until tender.  Heat oil in a pan and saute chopped onions until golden brown.  Add chopped tomatoes, ginger, garlic, and green chili. Cook until tomatoes are soft.  Add cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. Cook for a few minute. Add boiled chickpeas and simmer for 10-15 minutes until the curry thickens."
@@ -93,7 +93,7 @@
             {
                 "name": "Butter Chicken",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/butter-chicken.jpg",
+                "image": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
                 "likes": 15000,
                 "ingredients": "500g boneless chicken, 1 cup yogurt, 1 tbsp ginger paste, 1 tbsp garlic paste, 2 tbsp ghee, 2 onions (finely chopped), 2 tomatoes (pureed), 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala powder, salt, 1/2 cup cream, fresh coriander leaves (chopped)",
                 "cooking_method": "1. Marinate chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. 2. Heat ghee in a pan and saute onions until golden brown. 3. Add tomato puree and cook until the oil separates. 4. Add marinated chicken and cook until done. 5. Stir in cream and cook for a few more minutes.6. Garnish with fresh coriander leaves and serve hot with naan or rice."
@@ -112,22 +112,24 @@
             {
                 "name": "Paneer Tikka",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/paneer-tikka.jpg",
+                "image": "https://www.cookwithkushi.com/wp-content/uploads/2023/02/tandoori_paneer_tikka_restaurant_style.jpg",
                 "likes": 12000,
                 "ingredients": "250g paneer, capsicum, onion, yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil",
                 "cooking_method": "1. Cut paneer, capsicum, and onions into cubes.  Marinate paneer and vegetables with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt.  Skewer the paneer and vegetables and grill until charred"
             },
             {
                 "name": "Chicken Tikka Masala",
-                "image": "https://cdn.example.com/recipes/chicken-tikka-masala.jpg",
+                "image": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
                 "ingredients": "500g boneless chicken, yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil, onion, tomato puree, heavy cream, dried fenugreek leaves",
                 "cooking_method": "1. Marinate chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt.  Heat oil in a pan and saute chopped onions until translucent.  Add tomato puree and cook for a few minutes. 4. Add marinated chicken and cook until browned.5. Add heavy cream and dried fenugreek leaves.6. Simmer for 10-15 minutes until the chicken is cooked through."
             },
             {
-                "name": "Chicken Tikka Masala",
-                "image": "https://cdn.example.com/recipes/chicken-tikka-masala.jpg",
-                "ingredients": "500g boneless chicken, yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil, onion, tomato puree, heavy cream, dried fenugreek leaves",
-                "cooking_method": "1. Marinate chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt.  Heat oil in a pan and saute chopped onions until translucent.  Add tomato puree and cook for a few minutes. Add marinated chicken and cook until browned.  Add heavy cream and dried fenugreek leaves.  Simmer for 10-15 minutes until the chicken is cooked through."
+                "name": "Chicken Biryani",
+                "cuisine": "Indian",
+                "image": "https://10minutesrecipe.com/wp-content/uploads/2022/03/Indian-Chicken-Biryani-Recipe.jpg",
+                "likes": 22000,
+                "ingredients": "500g chicken, cut into pieces,2 cups basmati rice,4 tbsp ghee,2 onions, sliced,1 tbsp ginger paste,1 tbsp garlic paste,2 tomatoes, chopped,1 tsp cumin seeds,1 tsp coriander powder,1/2 tsp turmeric powder,1 tsp red chili powder,1 tsp garam masala powder,1/2 cup yogurt,Salt,4 cups water,A handful of mint leaves, chopped,A handful of coriander leaves, chopped,1 lemon, cut into wedges",
+                "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. 2. Heat ghee in a pan and saute onions until golden brown. 3. Add ginger paste and garlic paste and saute for a minute. 4. Add tomatoes, cumin seeds, coriander powder, turmeric powder, red chili powder, and garam masala powder. Cook until the tomatoes are soft and pulpy. 5. Add chicken pieces and cook until the chicken is browned on all sides. 6. Add yogurt and salt, and mix well. 7. Drain the soaked rice and add it to the chicken mixture. Mix well. 8. Add water and bring the mixture to a boil. 9. Lower the heat, cover the pan, and simmer for 20 minutes, or until the rice is cooked and the water has been absorbed. 10. Garnish with mint leaves, coriander leaves, and lemon wedges. Serve hot."
             }
         ]
     },
@@ -143,7 +145,7 @@
             {
                 "name": "Chana Masala",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/chana-masala.jpg",
+                "image": "https://www.ticklingpalates.com/wp-content/uploads/2022/07/chana-masala-recipe.jpg",
                 "likes": 15000,
                 "ingredients": "1 cup dried chickpeas, onion, tomatoes, ginger, garlic, green chili, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil",
                 "cooking_method": "1. Soak chickpeas overnight and boil until tender. 2. Heat oil in a pan and saute chopped onions until golden brown.3. Add chopped tomatoes, ginger, garlic, and green chili. Cook until tomatoes are soft.4. Add cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. Cook for a few minutes. 5. Add boiled chickpeas and simmer for 10-15 minutes until the curry thickens."
@@ -151,7 +153,7 @@
             {
                 "name": "Chicken Biryani",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/chicken-biryani.jpg",
+                "image": "https://10minutesrecipe.com/wp-content/uploads/2022/03/Indian-Chicken-Biryani-Recipe.jpg",
                 "likes": 22000,
                 "ingredients": "500g chicken, cut into pieces,2 cups basmati rice,4 tbsp ghee,2 onions, sliced,1 tbsp ginger paste,1 tbsp garlic paste,2 tomatoes, chopped,1 tsp cumin seeds,1 tsp coriander powder,1/2 tsp turmeric powder,1 tsp red chili powder,1 tsp garam masala powder,1/2 cup yogurt,Salt,4 cups water,A handful of mint leaves, chopped,A handful of coriander leaves, chopped,1 lemon, cut into wedges",
                 "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. 2. Heat ghee in a pan and saute onions until golden brown. 3. Add ginger paste and garlic paste and saute for a minute. 4. Add tomatoes, cumin seeds, coriander powder, turmeric powder, red chili powder, and garam masala powder. Cook until the tomatoes are soft and pulpy. 5. Add chicken pieces and cook until the chicken is browned on all sides. 6. Add yogurt and salt, and mix well. 7. Drain the soaked rice and add it to the chicken mixture. Mix well. 8. Add water and bring the mixture to a boil. 9. Lower the heat, cover the pan, and simmer for 20 minutes, or until the rice is cooked and the water has been absorbed. 10. Garnish with mint leaves, coriander leaves, and lemon wedges. Serve hot."
@@ -159,7 +161,7 @@
             {
                 "name": "Butter Chicken",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/butter-chicken.jpg",
+                "image": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
                 "likes": 15000,
                 "ingredients": "500g boneless chicken, 1 cup yogurt, 1 tbsp ginger paste, 1 tbsp garlic paste, 2 tbsp ghee, 2 onions (finely chopped), 2 tomatoes (pureed), 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala powder, salt, 1/2 cup cream, fresh coriander leaves (chopped)",
                 "cooking_method": "1. Marinate chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. 2. Heat ghee in a pan and saute onions until golden brown. 3. Add tomato puree and cook until the oil separates. 4. Add marinated chicken and cook until done. 5. Stir in cream and cook for a few more minutes.6. Garnish with fresh coriander leaves and serve hot with naan or rice."
@@ -178,7 +180,7 @@
             {
                 "name": "Paneer Tikka",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/paneer-tikka.jpg",
+                "image": "https://www.cookwithkushi.com/wp-content/uploads/2023/02/tandoori_paneer_tikka_restaurant_style.jpg",
                 "likes": 12000,
                 "ingredients": "250g paneer, capsicum, onion, yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, salt, oil",
                 "cooking_method": "1. Cut paneer, capsicum, and onions into cubes. 2. Marinate paneer and vegetables with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. 3. Skewer the paneer and vegetables and grill until charred"
@@ -186,7 +188,7 @@
             {
                 "name": "Butter Chicken",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/butter-chicken.jpg",
+                "image": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
                 "likes": 15000,
                 "ingredients": "500g boneless chicken, 1 cup yogurt, 1 tbsp ginger paste, 1 tbsp garlic paste, 2 tbsp ghee, 2 onions (finely chopped), 2 tomatoes (pureed), 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala powder, salt, 1/2 cup cream, fresh coriander leaves (chopped)",
                 "cooking_method": "1. Marinate chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. 2. Heat ghee in a pan and saute onions until golden brown. 3. Add tomato puree and cook until the oil separates. 4. Add marinated chicken and cook until done. 5. Stir in cream and cook for a few more minutes.6. Garnish with fresh coriander leaves and serve hot with naan or rice."
@@ -194,10 +196,10 @@
             {
                 "name": "Chicken Biryani",
                 "cuisine": "Indian",
-                "image": "https://cdn.example.com/recipes/chicken-biryani.jpg",
+                "image": "https://10minutesrecipe.com/wp-content/uploads/2022/03/Indian-Chicken-Biryani-Recipe.jpg",
                 "likes": 22000,
                 "ingredients": "500g chicken, cut into pieces,2 cups basmati rice,4 tbsp ghee,2 onions, sliced,1 tbsp ginger paste,1 tbsp garlic paste,2 tomatoes, chopped,1 tsp cumin seeds,1 tsp coriander powder,1/2 tsp turmeric powder,1 tsp red chili powder,1 tsp garam masala powder,1/2 cup yogurt,Salt,4 cups water,A handful of mint leaves, chopped,A handful of coriander leaves, chopped,1 lemon, cut into wedges",
-                "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. \n2. Heat ghee in a pan and saute onions until golden brown. \n3. Add ginger paste and garlic paste and saute for a minute. \n4. Add tomatoes, cumin seeds, coriander powder, turmeric powder, red chili powder, and garam masala powder. Cook until the tomatoes are soft and pulpy. \n5. Add chicken pieces and cook until the chicken is browned on all sides. \n6. Add yogurt and salt, and mix well. \n7. Drain the soaked rice and add it to the chicken mixture. Mix well. \n8. Add water and bring the mixture to a boil. \n9. Lower the heat, cover the pan, and simmer for 20 minutes, or until the rice is cooked and the water has been absorbed. \n10. Garnish with mint leaves, coriander leaves, and lemon wedges. Serve hot."
+                "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. 2. Heat ghee in a pan and saute onions until golden brown. 3. Add ginger paste and garlic paste and saute for a minute. 4. Add tomatoes, cumin seeds, coriander powder, turmeric powder, red chili powder, and garam masala powder. Cook until the tomatoes are soft and pulpy. 5. Add chicken pieces and cook until the chicken is browned on all sides. 6. Add yogurt and salt, and mix well. 7. Drain the soaked rice and add it to the chicken mixture. Mix well. 8. Add water and bring the mixture to a boil. 9. Lower the heat, cover the pan, and simmer for 20 minutes, or until the rice is cooked and the water has been absorbed. 10. Garnish with mint leaves, coriander leaves, and lemon wedges. Serve hot."
             }
         ]
     }
